@@ -1,0 +1,29 @@
+/* styles.css */
+
+.hero {
+    background: url('-<blockquote class="imgur-embed-pub" lang="en" data-id="undefined"><a href="https://imgur.com/undefined">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>image.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.hero .display-4 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 1.5rem;
+}
+
+#about img {
+    max-width: 100%;
+    height: auto;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    padding: 5px 0;
+}
